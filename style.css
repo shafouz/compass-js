@@ -1,0 +1,14 @@
+body {
+	background-color: #3492eb !important;
+}
+
+.container {
+	margin-top: 4.5rem;
+}
+
+.image {
+	width: 450px;
+	height: 450px;
+	margin: 0 auto;
+	display: block;
+}
